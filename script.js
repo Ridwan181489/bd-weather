@@ -62,7 +62,7 @@
 
       weatherDiv.innerHTML = "Loading...";
 
-      fetch(`/api/weather?city=${encodeURIComponent(city)}`)
+      fetch(`https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=YOUR_API_KEY&units=metric`)
         .then(res => res.json())
         .then(data => {
 
