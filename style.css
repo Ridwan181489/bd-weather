@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
 body {
   font-family: 'Segoe UI', sans-serif;
   min-height: 100vh;
@@ -22,8 +24,6 @@ body {
   flex-direction: column;
   gap: 10px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
 .website-title {
   width: 100%;
