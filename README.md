@@ -9,4 +9,4 @@ Live weather app for Bangladesh districts.
 - OpenWeather API
 
 ## Live
-https://your-site.vercel.app
+https://bd-weather-free.vercel.app/
